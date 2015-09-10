@@ -1,2 +1,3 @@
 # nltk_exercises
-my answers to the exercises of natural language processing with python
+My answers to the exercises of Natural Language Processing with Python
+This is my first repository on github
