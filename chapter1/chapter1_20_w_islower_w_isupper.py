@@ -1,0 +1,13 @@
+w.isupper():
+AAA
+123AAA
+???AAA
+1?1AAA
+
+
+w.islower():
+aaa
+123aaa
+???aaa
+1?1aaa
+
